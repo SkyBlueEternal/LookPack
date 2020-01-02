@@ -1,4 +1,4 @@
-# LookPack安卓查壳(Scan Android Pack)
+# LookPack安卓查壳(Android Pack Scan)
 
 ### BUG 请提交 Issues
 
