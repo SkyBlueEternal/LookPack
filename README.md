@@ -8,7 +8,7 @@
 
 ## 安装方法：
 
-#### 使用Python3 , 执行 pip -r requirements.txt   
+#### 使用Python3 , 执行 pip install -r requirements.txt   
 #### 运行FlaskServer.py访问 http://127.0.0.1:80
 #### 在windows10上测试通过。
 
