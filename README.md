@@ -14,4 +14,4 @@
 
 ## 界面截图：
 
-![image](./pics/jiemian.png)
+![image](./pics/beijing1.png)
